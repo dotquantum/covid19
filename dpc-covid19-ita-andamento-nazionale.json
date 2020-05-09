@@ -1348,8 +1348,6 @@
         "casi_testati": 1608985,
         "note_it": "dc-IT-0025",
         "note_en": "dc-EN-0025"
-<<<<<<< HEAD
-=======
     },
     {
         "data": "2020-05-09T17:00:00",
@@ -1368,6 +1366,5 @@
         "casi_testati": 1645076,
         "note_it": "",
         "note_en": ""
->>>>>>> e9fceda617eaf5ef16c7903def1efde4ee4c6c7c
     }
 ]
