@@ -1,20 +1,20 @@
 [
     {
-        "data": "2020-06-18T17:00:00",
+        "data": "2020-06-25T17:00:00",
         "stato": "ITA",
-        "ricoverati_con_sintomi": 2867,
-        "terapia_intensiva": 168,
-        "totale_ospedalizzati": 3035,
-        "isolamento_domiciliare": 20066,
-        "totale_positivi": 23101,
-        "variazione_totale_positivi": -824,
-        "nuovi_positivi": 333,
-        "dimessi_guariti": "180544",
-        "deceduti": 34514,
-        "totale_casi": 238159,
-        "tamponi": 4831562,
-        "casi_testati": 2958724,
-        "note_it": "dc-IT-0055",
-        "note_en": "dc-EN-0055"
+        "ricoverati_con_sintomi": 1515,
+        "terapia_intensiva": 103,
+        "totale_ospedalizzati": 1618,
+        "isolamento_domiciliare": 16685,
+        "totale_positivi": 18303,
+        "variazione_totale_positivi": -352,
+        "nuovi_positivi": 296,
+        "dimessi_guariti": 186725,
+        "deceduti": 34678,
+        "totale_casi": 239706,
+        "tamponi": 5163154,
+        "casi_testati": 3140785,
+        "note_it": "",
+        "note_en": ""
     }
 ]
